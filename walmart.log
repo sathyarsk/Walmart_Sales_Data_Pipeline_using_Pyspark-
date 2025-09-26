@@ -1,0 +1,22 @@
+2025-09-26 05:05:01,062 - INFO - Customers data loaded successfully
+2025-09-26 05:05:04,212 - INFO - Sales transactions data loaded successfully
+2025-09-26 05:05:04,282 - INFO - Customers DataFrame:
+2025-09-26 05:05:04,849 - INFO - Sales Transactions DataFrame:
+2025-09-26 05:05:34,198 - INFO - Duplicates removed successfully
+2025-09-26 05:05:44,703 - INFO - Missing values handled successfully
+2025-09-26 05:06:09,108 - INFO - Column names renamed successfully
+2025-09-26 05:06:34,788 - INFO - Data types ensured successfully
+2025-09-26 05:06:52,793 - INFO - Total amount column added successfully
+2025-09-26 05:07:05,294 - INFO - Dataframes joined successfully
+2025-09-26 05:07:22,035 - INFO - Temporary views created successfully
+2025-09-26 05:07:40,983 - INFO - Total Number of Customers calculated successfully
+2025-09-26 05:08:01,554 - INFO - Total Sales by State calculated successfully
+2025-09-26 05:08:15,128 - INFO - Top 10 most purchased products calculated successfully
+2025-09-26 05:08:42,822 - INFO - Average Transaction Value calculated successfully
+2025-09-26 05:08:58,406 - INFO - Top 5 Customers by Expenditure calculated successfully
+2025-09-26 05:09:21,398 - INFO - Product Purchases by a Specific Customer calculated successfully
+2025-09-26 05:10:18,285 - INFO - Monthly sales trend identified
+2025-09-26 05:10:38,866 - INFO - Category with highest sales identified
+2025-09-26 05:10:58,769 - INFO - State-wise sales comparison identified
+2025-09-26 05:11:29,271 - INFO - NumExpr defaulting to 2 threads.
+2025-09-26 05:11:32,328 - INFO - Customer report created successfully
